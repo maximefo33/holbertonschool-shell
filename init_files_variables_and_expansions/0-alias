@@ -1,2 +1,2 @@
 #!/bin/bash
-ls="rm -f"
+ls="rm -f *"
